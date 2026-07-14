@@ -1,5 +1,6 @@
 <img width="1308" height="676" alt="Screenshot 2026-07-14 at 15 58 42" src="https://github.com/user-attachments/assets/3b542915-e13c-4291-a446-1906b58a3549" />
-**Bike Sales Dashboard**
+
+**Bike Sales Dashboard** 
 
 Purpose:
 This dashboard summarizes bike purchase behavior across customer demographics, helping identify which segments are more likely to purchase a bike and how income, age, and commute distance relate to that decision.
